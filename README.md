@@ -48,7 +48,6 @@ installation nor cache collection authorizes sending a full Git snapshot.
 
 ## Source and releases
 
-The package is maintained with Codeclew and bundled into its signed release
-source closure. Each published Codeclew version installs its matching copy;
+The package is maintained with Codeclew and bundled into its release source closure. Each published Codeclew version installs its matching copy;
 this repository exposes the current public package for other agents and skill
 installers.
